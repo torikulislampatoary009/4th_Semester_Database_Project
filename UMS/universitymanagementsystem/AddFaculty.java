@@ -12,7 +12,7 @@ public class AddFaculty extends JFrame implements ActionListener{
     JButton Add,back;
     AddFaculty(){
     
-     getContentPane().setBackground(Color.WHITE);
+     getContentPane().setBackground(Color.LIGHT_GRAY);
      setLayout(null);
      
      StudentFrom= new JLabel("Faculty Form");
